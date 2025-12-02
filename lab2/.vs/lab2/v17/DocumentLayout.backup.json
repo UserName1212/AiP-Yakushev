@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95A6D291-2518-4E82-9401-32AF9B9B13A1}|lab2\\lab2.vcxproj|C:\\Users\\vov36\\OneDrive\\Desktop\\classroom2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "classroom2.c",
+              "DocumentMoniker": "C:\\Users\\vov36\\OneDrive\\Desktop\\classroom2.c",
+              "RelativeDocumentMoniker": "..\\..\\classroom2.c",
+              "ToolTip": "C:\\Users\\vov36\\OneDrive\\Desktop\\classroom2.c",
+              "RelativeToolTip": "..\\..\\classroom2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-09T09:55:26.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

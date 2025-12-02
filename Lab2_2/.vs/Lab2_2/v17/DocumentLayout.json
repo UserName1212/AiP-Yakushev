@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\Lab2_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB1C1EB-0D5D-4D78-9110-D75DB83161AE}|Lab2_2\\Lab2_2.vcxproj|C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\Lab2_2\\lab2_part2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AAB1C1EB-0D5D-4D78-9110-D75DB83161AE}|Lab2_2\\Lab2_2.vcxproj|solutionrelative:lab2_part2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vov36\\Downloads\\Telegram Desktop\\classroom3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vov36\\Downloads\\Telegram Desktop\\classroom2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "classroom2.c",
+              "DocumentMoniker": "C:\\Users\\vov36\\Downloads\\Telegram Desktop\\classroom2.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Telegram Desktop\\classroom2.c",
+              "ToolTip": "C:\\Users\\vov36\\Downloads\\Telegram Desktop\\classroom2.c",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Telegram Desktop\\classroom2.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-06T18:37:26.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "classroom3.c",
+              "DocumentMoniker": "C:\\Users\\vov36\\Downloads\\Telegram Desktop\\classroom3.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Telegram Desktop\\classroom3.c",
+              "ToolTip": "C:\\Users\\vov36\\Downloads\\Telegram Desktop\\classroom3.c",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Telegram Desktop\\classroom3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-06T18:21:13.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab2_part2.c",
+              "DocumentMoniker": "C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\Lab2_2\\lab2_part2.c",
+              "RelativeDocumentMoniker": "lab2_part2.c",
+              "ToolTip": "C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\Lab2_2\\lab2_part2.c",
+              "RelativeToolTip": "lab2_part2.c",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-06T17:12:58.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

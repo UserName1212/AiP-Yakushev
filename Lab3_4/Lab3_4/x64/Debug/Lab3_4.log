@@ -1,0 +1,4 @@
+﻿  lab3_4.c
+C:\Users\vov36\OneDrive\Desktop\Labs\Lab3_4\Lab3_4\lab3_4.c(30,17): warning C4047: =: "char *" отличается по уровням косвенного обращения от "unsigned __int64"
+C:\Users\vov36\OneDrive\Desktop\Labs\Lab3_4\Lab3_4\lab3_4.c(30,17): warning C4047: инициализация: "unsigned __int64" отличается по уровням косвенного обращения от "char *"
+  Lab3_4.vcxproj -> C:\Users\vov36\OneDrive\Desktop\Labs\Lab3_4\x64\Debug\Lab3_4.exe
