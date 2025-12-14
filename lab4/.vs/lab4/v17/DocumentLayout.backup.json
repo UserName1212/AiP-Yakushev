@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26D5EC0C-96DA-48AE-9324-4869A38B46F2}|lab4\\lab4.vcxproj|C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\lab4\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26D5EC0C-96DA-48AE-9324-4869A38B46F2}|lab4\\lab4.vcxproj|solutionrelative:lab4\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D5EC0C-96DA-48AE-9324-4869A38B46F2}|lab4\\lab4.vcxproj|C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\lab4\\lab4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26D5EC0C-96DA-48AE-9324-4869A38B46F2}|lab4\\lab4.vcxproj|solutionrelative:lab4\\lab4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D5EC0C-96DA-48AE-9324-4869A38B46F2}|lab4\\lab4.vcxproj|C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\lab4\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26D5EC0C-96DA-48AE-9324-4869A38B46F2}|lab4\\lab4.vcxproj|solutionrelative:lab4\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vov36\\Downloads\\Telegram Desktop\\lab4_8_penalty.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D5EC0C-96DA-48AE-9324-4869A38B46F2}|lab4\\lab4.vcxproj|C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\lab4\\functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26D5EC0C-96DA-48AE-9324-4869A38B46F2}|lab4\\lab4.vcxproj|solutionrelative:lab4\\functions.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D5EC0C-96DA-48AE-9324-4869A38B46F2}|lab4\\lab4.vcxproj|C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\lab4\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26D5EC0C-96DA-48AE-9324-4869A38B46F2}|lab4\\lab4.vcxproj|solutionrelative:lab4\\functions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab4.c",
+              "DocumentMoniker": "C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\lab4\\lab4.c",
+              "RelativeDocumentMoniker": "lab4\\lab4.c",
+              "ToolTip": "C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\lab4\\lab4.c",
+              "RelativeToolTip": "lab4\\lab4.c",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAIoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-02T11:42:50.523Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\lab4\\test.c",
+              "RelativeDocumentMoniker": "lab4\\test.c",
+              "ToolTip": "C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\lab4\\test.c",
+              "RelativeToolTip": "lab4\\test.c",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-14T07:02:30.575Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lab4_8_penalty.c",
+              "DocumentMoniker": "C:\\Users\\vov36\\Downloads\\Telegram Desktop\\lab4_8_penalty.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\Telegram Desktop\\lab4_8_penalty.c",
+              "ToolTip": "C:\\Users\\vov36\\Downloads\\Telegram Desktop\\lab4_8_penalty.c",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\Telegram Desktop\\lab4_8_penalty.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-14T07:42:59.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.h",
+              "DocumentMoniker": "C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\lab4\\test.h",
+              "RelativeDocumentMoniker": "lab4\\test.h",
+              "ToolTip": "C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\lab4\\test.h",
+              "RelativeToolTip": "lab4\\test.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-14T07:11:25.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "functions.c",
+              "DocumentMoniker": "C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\lab4\\functions.c",
+              "RelativeDocumentMoniker": "lab4\\functions.c",
+              "ToolTip": "C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\lab4\\functions.c",
+              "RelativeToolTip": "lab4\\functions.c",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-02T14:15:48.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "functions.h",
+              "DocumentMoniker": "C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\lab4\\functions.h",
+              "RelativeDocumentMoniker": "lab4\\functions.h",
+              "ToolTip": "C:\\Users\\vov36\\OneDrive\\Desktop\\Labs\\lab4\\lab4\\functions.h",
+              "RelativeToolTip": "lab4\\functions.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-02T14:12:46.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
