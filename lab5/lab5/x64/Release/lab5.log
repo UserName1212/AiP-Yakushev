@@ -1,0 +1,9 @@
+﻿  lab5.c
+C:\Users\vov36\OneDrive\Desktop\Labs\lab5\lab5\lab5.c(122,15): warning C4133: функция: несовместимые типы - из "Book *" в "const Book *"
+C:\Users\vov36\OneDrive\Desktop\Labs\lab5\lab5\lab5.c(125,15): warning C4133: функция: несовместимые типы - из "Book *" в "const Book *"
+  Создание кода
+  4 of 44 functions ( 9.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  lab5.vcxproj -> C:\Users\vov36\OneDrive\Desktop\Labs\lab5\x64\Release\lab5.exe
