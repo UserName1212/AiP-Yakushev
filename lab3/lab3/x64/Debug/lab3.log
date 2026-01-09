@@ -1,9 +1,0 @@
-﻿  lab3.c
-C:\Users\vov36\OneDrive\Desktop\Labs\lab3\lab3\lab3.c(13,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\vov36\OneDrive\Desktop\Labs\lab3\lab3\lab3.c(206,15): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char [5][80]"
-C:\Users\vov36\OneDrive\Desktop\Labs\lab3\lab3\lab3.c(206,15): warning C4024: fgets: различные типы для формального и фактического параметров 1
-C:\Users\vov36\OneDrive\Desktop\Labs\lab3\lab3\lab3.c(208,23): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "int [3][6]"
-C:\Users\vov36\OneDrive\Desktop\Labs\lab3\lab3\lab3.c(208,23): warning C4024: strcmp: различные типы для формального и фактического параметров 1
-C:\Users\vov36\OneDrive\Desktop\Labs\lab3\lab3\lab3.c(218,17): warning C4047: =: "char *" отличается по уровням косвенного обращения от "int"
-C:\Users\vov36\OneDrive\Desktop\Labs\lab3\lab3\lab3.c(218,17): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "char *"
-  lab3.vcxproj -> C:\Users\vov36\OneDrive\Desktop\Labs\lab3\x64\Debug\lab3.exe

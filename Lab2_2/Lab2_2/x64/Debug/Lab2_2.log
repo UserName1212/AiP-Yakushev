@@ -1,6 +1,0 @@
-﻿  lab2_part2.c
-C:\Users\vov36\OneDrive\Desktop\Labs\Lab2_2\lab2_part2.c(13,14): warning C4047: инициализация: "int *" отличается по уровням косвенного обращения от "int"
-C:\Users\vov36\OneDrive\Desktop\Labs\Lab2_2\lab2_part2.c(15,23): warning C4244: инициализация: преобразование "__int64" в "char", возможна потеря данных
-C:\Users\vov36\OneDrive\Desktop\Labs\Lab2_2\lab2_part2.c(47,27): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
-C:\Users\vov36\OneDrive\Desktop\Labs\Lab2_2\lab2_part2.c(76,20): warning C4090: "инициализация": разные квалификаторы "const"
-  Lab2_2.vcxproj -> C:\Users\vov36\OneDrive\Desktop\Labs\Lab2_2\x64\Debug\Lab2_2.exe
