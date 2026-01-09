@@ -1,12 +1,10 @@
 ﻿  functions.c
-  lab5.c
 C:\Users\vov36\OneDrive\Desktop\Labs\lab5\lab5\functions.c(190,18): warning C4113: "const char *(__cdecl *)()" отличается в списках параметров от "string_func_t"
 C:\Users\vov36\OneDrive\Desktop\Labs\lab5\lab5\functions.c(191,18): warning C4113: "const char *(__cdecl *)()" отличается в списках параметров от "string_func_t"
 C:\Users\vov36\OneDrive\Desktop\Labs\lab5\lab5\functions.c(192,18): warning C4113: "const char *(__cdecl *)()" отличается в списках параметров от "string_func_t"
 C:\Users\vov36\OneDrive\Desktop\Labs\lab5\lab5\functions.c(193,18): warning C4113: "const char *(__cdecl *)()" отличается в списках параметров от "string_func_t"
 C:\Users\vov36\OneDrive\Desktop\Labs\lab5\lab5\functions.c(194,18): warning C4113: "const char *(__cdecl *)()" отличается в списках параметров от "string_func_t"
-C:\Users\vov36\OneDrive\Desktop\Labs\lab5\lab5\lab5.c(122,15): warning C4133: функция: несовместимые типы - из "Book *" в "const Book *"
-C:\Users\vov36\OneDrive\Desktop\Labs\lab5\lab5\lab5.c(125,15): warning C4133: функция: несовместимые типы - из "Book *" в "const Book *"
+  lab5.c
   test.c
 C:\Users\vov36\OneDrive\Desktop\Labs\lab5\lab5\test.c(6,5): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
 C:\Users\vov36\OneDrive\Desktop\Labs\lab5\lab5\test.c(7,5): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных

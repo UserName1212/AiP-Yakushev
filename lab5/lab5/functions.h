@@ -48,13 +48,12 @@ const char* getErrorMessage();
 typedef const char* (*string_func_t)(void);
 void initStringFunctions(string_func_t* funcArray, int size);
 
-
 //4
 struct Book {
-    char author[100];    // Автор
-    char title[100];     // Заглавие
-    int year;            // Год издания
-    double price;        // Цена
-    char category[50];   // Категория
+    char author[50];
+    char title[50];
+    char category[50];
+    int year;
+    double price;
 };
 void printBook(const struct Book* book);

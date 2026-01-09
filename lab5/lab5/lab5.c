@@ -76,21 +76,7 @@ int main() {
     printf("Функция под индексом 0: %s\n", funcArray[0]());
 
 
-
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-
-    // Определение структуры книги
-    struct Book {
-        char title[50];
-        char author[50];
-        char category[50];
-        int year;
-        double price;
-    };
-
-    
+        
     // Задание 4. Структуры
 
     printf("\n*****************Task 4*****\n");

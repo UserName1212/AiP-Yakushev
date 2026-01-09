@@ -27,7 +27,7 @@ double mul(double a, double b) {
 }
 
 double dv(double a, double b) {
-    if (b == 0.0) {
+    if (fabs(b) < 1e-8) {
         printf("Ошибка: деление на ноль!\n");
         return 0.0;
     }
